@@ -1,0 +1,6 @@
+To get better and accurate result, the chessboard should be little texture.
+There are two version: 
+the cutside one need a chessboard picture with only 15*15 lines without any other edge;
+as the other one (uncut) can detect a picture with few blank on the edge.
+A better cut can obviously promote the accuracy.
+You need to train the detector with a few pictures of gobang chessboard to get the best arguments used in the hough circles.
